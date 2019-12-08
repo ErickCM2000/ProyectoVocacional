@@ -1,0 +1,2 @@
+# ProyectoVocacional
+Este fue mi primer proyecto escolar realizado en la preparatoria, ya que teníamos la libertad de elegir el tema de proyecto y las tecnologías empleadas (aprendiéndolas por cuenta propia), a razón de esto se pueden apreciar varias malas prácticas. Actualmente me encuentro realizando desde cero una versión mejorada de este proyecto, ya a modo de proyecto personal, empleando la puedes encontrar en: 
