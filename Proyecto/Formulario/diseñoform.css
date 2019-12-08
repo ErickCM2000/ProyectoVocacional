@@ -1,0 +1,189 @@
+*{
+font-family: arial;
+}
+
+p#título{
+	padding-top: 20px;
+	text-align: center;
+	font-size: 50px;
+}
+
+p#tinstrucciones{
+	padding-top: 20px;
+}
+div#instrucciones{
+	border-radius: 250px;
+	background-color:#E0E0E0;
+	font-size: 15px;
+	width: 60%;
+	margin: auto;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+}
+
+span{
+	font-size: 20px;
+}
+.instructivo{
+	width: 80%;
+	text-align:center;
+	margin: auto;
+}
+3
+#tinstrucciones{
+	font-size: 30px;
+	text-align: center;
+
+}
+div#contenedorprincipal{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	width: 80%;
+	background-color:#2E7D32;
+	margin: auto;	
+}
+
+div#contenedor{
+	font-size: 18px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	background-color:white;
+	width: 85%;
+	margin: auto;
+	font-family:Tahoma, Geneva, sans-serif;
+}
+
+#tituloadmon{
+	background-color:#E65100;
+	color: beige;
+	text-align: center;
+	margin-bottom:20px;
+	font-size: 30px;
+}
+
+#tituloconta{
+	background-color:#B71C1C;
+	color: beige;
+	text-align: center;
+	margin-bottom:20px;
+	font-size: 30px;
+}
+
+#tituloinfo{
+	background-color:#0D47A1;
+	color: beige;
+	text-align: center;
+	margin-bottom:20px;
+	font-size: 30px;
+}
+
+
+div#diseñoadmon{
+	padding-top: 30px;
+	width: 90%;
+	margin: auto;
+	background-color:#FF9800;
+	padding-bottom: 30px;
+}
+
+div#contenedoradmon{
+	padding-top: 10px;
+	width: 80%;
+	margin:auto;
+	background-color: #FFB74D;
+}
+
+div#diseñoconta{
+	padding-top: 30px;
+	width: 90%;
+	margin: auto;
+	background-color:#E53935;
+	padding-bottom: 30px;
+}
+div#contenedorconta{
+	width: 80%;
+	margin:auto;
+	background-color:#EF5350;
+}
+
+div#diseñoinfo{
+	padding-top: 30px;
+	width: 90%;
+	margin: auto;
+	background-color:#2196F3;
+	padding-bottom: 30px;
+}
+
+div#contenedorinfo{
+	width: 80%;
+	margin:auto;
+	background-color:#4FC3F7;
+}
+
+
+div#baja button{
+	width: 20%;	
+	margin-top: 20px;
+	margin-left:40%;
+	margin-right:40%;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 100;
+    font-size: 20px;
+    color: #ffffff;
+    background-color:#D35400;
+    border-radius: 8px;
+    border: 2px solid #A04000;	
+}
+
+#importante{
+	font-size: 20;
+	background-color: #FFF3E0;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
+	border-radius: 8px;
+}
+
+
+div#baja button:hover{
+	color:black;
+    background-color:#E64A19;
+}
+
+div#baja p#mensaje{
+    width: 50%;
+    font-size: 40px;
+    margin: auto;
+    background-color:blue;
+    color:white;
+   text-align: center;
+}
+
+div#baja p#admón{
+	font-size:25px;
+	width: 50%;
+    margin: auto;
+    background-color:#FF9800;
+    color:white;
+    text-align: center;
+ }
+
+div#baja p#conta{
+	font-size:25px;
+    width: 50%;
+    margin: auto;
+    background-color:#E53935;
+    color:white;
+    text-align: center;
+ }
+
+div#baja p#info{
+	font-size: 25px;
+    width: 50%;
+    margin: auto;
+    background-color:#2196F3;
+    color:white;
+    text-align: center;
+}

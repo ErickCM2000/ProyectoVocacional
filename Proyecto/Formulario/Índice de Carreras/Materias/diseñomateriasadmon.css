@@ -1,0 +1,116 @@
+div#contenedor{
+	width: 70%;
+	padding-bottom: 100px;
+	padding-top: 50px;
+	margin: auto;
+	background-color:#FFB300;
+	-webkit-box-shadow: -1px 2px 30px 2px rgba(0,0,0,0.75);
+	-moz-box-shadow: -1px 2px 30px 2px rgba(0,0,0,0.75);
+	box-shadow: -1px 2px 30px 2px rgba(0,0,0,0.75);	
+}
+
+div#contenedor h1{
+	font-family: Verdana;
+	background-color:#1A237E; 
+	color: beige;
+	width: 80%;
+	height:50px;
+	margin: auto;
+	text-align: center;
+	-webkit-box-shadow: 10px 10px 33px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 33px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 33px 0px rgba(0,0,0,0.75);	
+}
+
+div#body{
+	background-color:#FFF3E0;
+	padding-bottom: 10px;
+	width: 60%;
+	margin:auto;
+	-webkit-box-shadow: -1px 2px 30px 2px rgba(0,0,0,0.75);
+	-moz-box-shadow: -1px 2px 30px 2px rgba(0,0,0,0.75);
+	box-shadow: -1px 2px 30px 2px rgba(0,0,0,0.75);	
+
+}
+
+div#body h2{
+	width: 85%;
+	margin-right:auto;
+	margin-left: auto;	
+	background-color:#B71C1C;
+	color: beige;
+	text-align: center;
+	-webkit-box-shadow: 10px 10px 33px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 33px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 33px 0px rgba(0,0,0,0.75);	
+}
+
+div#body li{
+	font-size:20px;
+	list-style-type: none;
+	margin-right:auto;
+	margin-left:auto;
+	width:60%;
+	text-align: center;
+	background-color:#A6ACAF;
+	-webkit-box-shadow: 10px 10px 31px -6px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 31px -6px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 31px -6px rgba(0,0,0,0.75);	
+}
+
+div#body p{
+	font-size:20px;
+	width:70%;
+	margin-right:auto;
+	margin-left:auto;
+	background-color:#D7DBDD;
+	text-align: center;
+	-webkit-box-shadow: 10px 10px 31px -6px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 31px -6px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 31px -6px rgba(0,0,0,0.75);	
+}
+#botones{
+	padding-top: 10px;
+	width: 80%;
+	margin: auto;
+}
+
+#button1 {
+	width: 20%;	
+	margin-top: 20px;
+	margin-left:40%;
+	margin-right:40%;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 100;
+    font-size: 20px;
+    color: #ffffff;
+    background-color:#D35400;
+    border-radius: 8px;
+    border: 2px solid #A04000;	
+}
+
+#button1:hover {
+	color:black;
+	background-color:#E64A19;	
+	}
+
+#botones #button2{
+	width: 20%;	
+	margin-top: 20px;
+	margin-left:40%;
+	margin-right:40%;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 100;
+    font-size: 20px;
+    color: #ffffff;
+    background-color:#D35400;
+    border-radius: 8px;
+    border: 2px solid #A04000;	
+}
+
+#button1:hover {
+	color:black;
+	background-color:#E64A19;	
+	}

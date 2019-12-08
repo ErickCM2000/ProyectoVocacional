@@ -1,0 +1,127 @@
+header{
+	width: 100%;
+	height: 200px;	
+	max-height: 200px;
+	max-width: 700px;
+	margin-left: auto;
+	margin-right: auto;	
+}
+header img{
+	width: 100%;
+	height: 200px;
+	-webkit-box-shadow: 10px 10px 86px 3px rgba(0,0,0,0.48);
+	-moz-box-shadow: 10px 10px 86px 3px rgba(0,0,0,0.48);
+	box-shadow: 10px 10px 86px 3px rgba(0,0,0,0.48);	
+	}
+
+div#Contenedor{
+	font-size: 30px;
+	width: 70%;
+	display: block;
+	background-color:#2196F3;
+	margin: auto;
+	padding-bottom: 20px;
+	-webkit-box-shadow: 10px 10px 44px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 44px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 44px 0px rgba(0,0,0,0.75);
+}
+div#RecuadroDerecho{
+	width: 25%;
+	height:auto;
+	background-color:#27AE60;
+	float: right;
+	margin-right:2.5%;
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);	
+
+}
+
+div#RecuadroDerecho button{
+	margin-left: 25%;
+	text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    padding-bottom: 10px;
+    font-weight: 100;
+    font-size: 15px;
+    color: #ffffff;
+    background-color:#27AE60;
+    border-radius: 8px;
+    border: 5px solid #145A32;
+    width: 50%;
+    height: 20%;
+	padding-bottom: 10%;
+}
+
+div#RecuadroDerecho button:hover{
+	color:white;
+	cursor: pointer;
+    background-color:#145A32;
+}
+
+div#RecuadroDerecho button#retroceso{
+	background:url('flecha.fw.png')center;
+	background-size:100%;
+	border: none;
+	cursor: pointer;
+	background-color:#FF9800;
+	border-radius: 200px 200px 200px 200px;
+	-moz-border-radius: 200px 200px 200px 200px;
+	-webkit-border-radius: 200px 200px 200px 200px;
+	border: 0px solid #000000;
+}
+
+div#RecuadroDerecho p{
+	 font-size:40px;
+	 text-align: center;
+	 background-color:#145A32;
+	 color: beige;	
+}
+
+div#CTitulo{
+	max-height: 100px;
+	width: 60%;
+	height: 20%;
+	margin-bottom: 30px;
+	background-color:#F1C40F;
+	text-align: center;
+	margin-left: 10%;	
+	color: beige;	
+	-webkit-box-shadow: 10px 10px 86px 3px rgba(0,0,0,0.48);
+	-moz-box-shadow: 10px 10px 86px 3px rgba(0,0,0,0.48);
+	box-shadow: 10px 10px 86px 3px rgba(0,0,0,0.48);	
+}
+
+div#CTitulo p{
+	background-color:#7D6608;
+	margin-left: 10%;
+	width: 80%;
+	height: 50%;
+	font-size:40px;	
+}
+
+div#Body{
+	width: 60%;
+	height:auto;
+	background-color:white;
+	padding-top:5px;
+	padding-bottom: 5px;
+	margin-left: 10%;
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);	
+
+}
+
+div#Body p{
+	margin-left: 5%;
+	margin-right: 5%;	
+	color:black;	
+	padding: 10px;
+	background-color:#CCD1D1;
+	-webkit-box-shadow: 10px 10px 48px 0px rgba(0,0,0,0.42);
+	-moz-box-shadow: 10px 10px 48px 0px rgba(0,0,0,0.42);
+	box-shadow: 10px 10px 48px 0px rgba(0,0,0,0.42);
+
+}
